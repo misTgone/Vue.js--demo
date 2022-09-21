@@ -1,0 +1,8 @@
+{
+  "name": "《vue3设计与实现》",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "朱超杰 <zhuchaojie@duiba.com.cn>",
+  "license": "MIT"
+}
